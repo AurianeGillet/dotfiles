@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = auriane.gillet@gmail.com
+	name = Auriane Gillet
